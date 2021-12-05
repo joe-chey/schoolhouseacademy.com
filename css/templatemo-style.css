@@ -365,10 +365,9 @@ https://templatemo.com/tm-516-known
     justify-content: center;
     flex-direction: column;
     text-align: left;
-    background-color: rgba(20,20,20,0.2);
+    background-color: rgba(20,20,20,0.5);
     height: 100%;
     color: #fff;
-    cursor: e-resize;
   }
 
   .home-slider .item {

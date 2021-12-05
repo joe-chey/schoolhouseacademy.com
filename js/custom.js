@@ -27,10 +27,10 @@
       animateOut: 'fadeOut',
       items:1,
       loop:true,
-      dots:false,
-      autoplayHoverPause: false,
+      dots:true,
+      autoplayHoverPause: true,
       autoplay: true,
-      smartSpeed: 6000,
+      smartSpeed: 10000,
     })
 
     $('.owl-courses').owlCarousel({
@@ -38,7 +38,7 @@
       loop: true,
       autoplayHoverPause: false,
       autoplay: true,
-      smartSpeed: 6000,
+      smartSpeed: 10000,
       dots: false,
       nav:true,
       navText: [
