@@ -383,18 +383,18 @@ https://templatemo.com/tm-516-known
 
   .home-slider .item-first {
     background-color: #FF8C00;
-/*    background-image: url(../images/slider-image1.jpg);*/
+    background-image: url(../images/background-img-1.jpg);
 	background-position: center;
   }
 
   .home-slider .item-second {
     background-color: #2F4F4F;
-/*    background-image: url(../images/slider-image2.jpg);*/
+    background-image: url(../images/background-img-2.jpg);
   }
 
   .home-slider .item-third {
     background-color:  #5F9EA0;
-/*    background-image: url(../images/slider-image3.jpg);*/
+    background-image: url(../images/background-img-3.jpg);
   }
 
 
